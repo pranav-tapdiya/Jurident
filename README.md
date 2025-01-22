@@ -1,9 +1,9 @@
-Here is a professional and presentable README file template for your GitHub project:
+
 
 ---
 
 # **Jurident - Android App**  
-Developed at **Valsco Technology** | *Sep 2023 – Nov 2023*
+Developed at **Valsco Technology** 
 
 ---
 
